@@ -14,3 +14,6 @@ This attack involved several stages, including a redirection to a Visual Studio 
 
 
 ![word-image-391402-136600-1](https://github.com/user-attachments/assets/3fc6c7e2-8ab6-4d5e-9fd8-a7ddd8777156)
+
+
+## 1° STAGE - DELIVERY
