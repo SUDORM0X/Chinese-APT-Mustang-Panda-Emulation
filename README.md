@@ -1,3 +1,4 @@
 # Chinese-APT-Mustang-Panda-Emulation
 This is a simulation of an attack carried out by the APT group (Mustang Panda), targeting government entities in Southeast Asia. The attack campaign was active from late September 2023. The attack chain begins with the abuse of Visual Studio Code's reverse shell to execute arbitrary code and deploy additional payloads.
  To abuse Visual Studio Code for malicious purposes, an attacker can use the portable version of code.exe (the executable file for Visual Studio Code), or an already installed version of the software. By running the command code.exe tunnel, an attacker receives a link that requires them to log into GitHub with their own account, I relied on paloalto to figure out the details to make this simulation: https://unit42.paloaltonetworks.com/stately-taurus-abuses-vscode-southeast-asian-espionage/
+![mp_full_v2-scaled](https://github.com/user-attachments/assets/3bb8f97a-b7e1-4e1d-9d4f-abffbe6ffd85)
